@@ -8,7 +8,7 @@ A smart neighborhood recommendation system for Bangalore that matches users with
 
 **Solution**: An intelligent matching system that analyzes 8 key factors (affordability, walkability, safety, etc.) and recommends the top 3 neighborhoods with detailed explanations.
 
-**Built By**: [Your Name] - Full Stack Developer  
+**Built By**: Kusumalatha Reddy - Full Stack Developer  
 **Timeline**: 2 weeks development cycle  
 **Purpose**: Placement drive technical demonstration
 
