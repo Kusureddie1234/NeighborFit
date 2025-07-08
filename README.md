@@ -14,7 +14,7 @@ A smart neighborhood recommendation system for Bangalore that matches users with
 
 ## 🚀 Live Demo
 
-[Add your deployed URL here]
+(https://communefit.netlify.app/)
 
 ## 🛠️ Technical Stack
 
@@ -192,19 +192,13 @@ src/
 
 ## 👨‍💻 About the Developer
 
-**[Your Name]**  
+**Kusumalatha Reddy**  
 Full Stack Developer | React Specialist | Algorithm Enthusiast
 
 - **Frontend**: React, TypeScript, Tailwind CSS, Next.js
 - **Backend**: Node.js, Express, MongoDB, PostgreSQL
 - **Tools**: Git, Vite, Webpack, Docker
 - **Interests**: UI/UX Design, Algorithm Optimization, System Architecture
-
-**Contact**: [Your Email] | [Your LinkedIn] | [Your GitHub]
-
-## 📄 License
-
-MIT License - This project is open source and available for educational and professional use.
 
 ---
 
