@@ -14,7 +14,7 @@ A smart neighborhood recommendation system for Bangalore that matches users with
 
 ## 🚀 Live Demo
 
-(https://communefit.netlify.app/)
+https://communefit.netlify.app/
 
 ## 🛠️ Technical Stack
 
